@@ -2,10 +2,10 @@
  * Name: David Garcia Ramirez
  * Date: 9/10/2025
 * Purpose: LabClass 3 - 
-* [Write a description about this InClass 3 program]
+* A user will input a house value, along with the interest rate, and the amount of years passed, then the program will output the current value.
  */
 
-// Don't forget to import and declare a Scanner for user input.
+// Import and declare scanner
 import java.util.Scanner;
 
 public class Lab3_David_GarciaRamirez
